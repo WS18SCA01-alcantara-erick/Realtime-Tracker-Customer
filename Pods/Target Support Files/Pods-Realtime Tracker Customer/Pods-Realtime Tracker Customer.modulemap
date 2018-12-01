@@ -1,0 +1,6 @@
+framework module Pods_Realtime_Tracker_Customer {
+  umbrella header "Pods-Realtime Tracker Customer-umbrella.h"
+
+  export *
+  module * { export * }
+}
